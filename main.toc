@@ -3,4 +3,5 @@
 \beamer@sectionintoc {4}{Existence of deterministic optimal Policies}{36}{0}{3}
 \beamer@sectionintoc {5}{Characterization of optimal policies}{41}{0}{4}
 \beamer@sectionintoc {6}{Numeric Results}{46}{0}{5}
-\beamer@sectionintoc {7}{Perspectives}{52}{0}{6}
+\beamer@sectionintoc {7}{Stochastic extension}{52}{0}{6}
+\beamer@sectionintoc {8}{Perspectives}{66}{0}{7}
